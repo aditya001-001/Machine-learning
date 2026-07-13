@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-Welcome to my Machine Learning learning and portfolio repository! This space serves as a structured documentation of my journey from basic Python and data analysis to advanced Machine Learning concepts and end-to-end applications.
+Welcome to my Machine Learning learning and portfolio repository! This space serves as a structured documentation of my journey from data analysis and preprocessing to advanced Machine Learning concepts and end-to-end applications.
 
 It is structured professionally to make it easy for recruiters and developers to navigate and understand the depth of topics covered.
 
@@ -10,7 +10,6 @@ It is structured professionally to make it easy for recruiters and developers to
 
 The repository is structured into organized directories, representing a sequential learning path:
 
-*   **`00_Python/`**: Core programming concepts, functions, and control flow in Python.
 *   **`01_NumPy/`**: High-performance array operations, matrix manipulation, indexing, and vectorization.
 *   **`02_Pandas/`**: Data ingestion, manipulation, aggregation, and structured data handling.
 *   **`03_Data_Visualization/`**: Exploratory plotting with Matplotlib and Seaborn (charts, correlations, and distribution plots).
