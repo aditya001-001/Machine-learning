@@ -39,3 +39,17 @@ Covers Decision Tree nodes splitting criteria (Gini Impurity vs. Entropy) and ba
 
 ### [03_Ensemble_Random_Forest.ipynb](file:///d:/ML/05_Machine_Learning/Classification/03_Ensemble_Random_Forest.ipynb)
 Covers Random Forest Classifiers and Bagging ensembles to combine predictions from weak tree-based models.
+
+---
+
+## 📊 Model Evaluation
+
+Evaluating how models perform on unseen data using metrics tailored to regression and classification tasks.
+
+### [01_Classification_Metrics.ipynb](file:///d:/ML/05_Machine_Learning/Model_Evaluation/01_Classification_Metrics.ipynb)
+Covers classification performance metrics:
+*   **Confusion Matrix:** TN, FP, FN, TP counts.
+*   **Precision:** Out of all positive predictions, how many were actually positive?
+*   **Recall (Sensitivity):** Out of all actual positive samples, how many did the model predict correctly?
+*   **F1-Score:** Balanced harmonic mean of Precision and Recall.
+*   **Accuracy:** Percentage of total correct predictions.
