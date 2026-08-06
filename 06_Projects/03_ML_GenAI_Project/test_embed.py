@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Unit test for Google Generative AI embeddings interface.
+# ==============================================================================
+
 import os
 import config
 from langchain_google_genai import GoogleGenerativeAIEmbeddings

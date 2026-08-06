@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Lists available Google Generative AI models.
+# ==============================================================================
+
 import config
 import google.generativeai as genai
 

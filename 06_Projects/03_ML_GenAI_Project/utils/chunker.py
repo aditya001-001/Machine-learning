@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Recursive character document splitting utilities.
+# ==============================================================================
+
 import logging
 from typing import List
 from langchain_core.documents import Document

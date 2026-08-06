@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Suite of baseline project validation tests.
+# ==============================================================================
+
 import os
 import sys
 

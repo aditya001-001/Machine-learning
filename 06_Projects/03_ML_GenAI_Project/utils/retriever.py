@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Vector store initialization, persistence, and RAG query pipeline.
+# ==============================================================================
+
 import logging
 from typing import List, Tuple
 from langchain_core.documents import Document

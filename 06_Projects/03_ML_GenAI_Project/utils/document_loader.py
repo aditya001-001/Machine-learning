@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Document ingestion utilities for PDF, TXT, and DOCX files.
+# ==============================================================================
+
 import os
 import logging
 import tempfile

@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Configuration and environment variables management.
+# ==============================================================================
+
 import os
 import logging
 from dotenv import load_dotenv

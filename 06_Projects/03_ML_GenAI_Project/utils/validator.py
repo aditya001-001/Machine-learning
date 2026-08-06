@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Document and query validation utilities.
+# ==============================================================================
+
 import logging
 from typing import Tuple
 

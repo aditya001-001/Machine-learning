@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Vector embeddings generation pipeline.
+# ==============================================================================
+
 import logging
 from typing import Any
 from langchain_google_genai import GoogleGenerativeAIEmbeddings

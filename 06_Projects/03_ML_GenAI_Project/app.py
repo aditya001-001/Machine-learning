@@ -1,3 +1,9 @@
+# ==============================================================================
+# Author: Aditya Sarapure
+# Repository: Machine-learning
+# Description: Streamlit application entry point orchestrating RAG pipelines.
+# ==============================================================================
+
 import importlib
 import streamlit as st
 import config
