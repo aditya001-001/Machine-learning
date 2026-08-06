@@ -47,7 +47,6 @@ graph TD
 6. **[Portfolio Projects](./06_Projects/)**
    - **[Loan Approval Prediction](./06_Projects/01_Loan_Approval_Prediction/)**: Binary classification pipeline to determine credit approval.
    - **[Google Play Store Analysis](./06_Projects/02_Google_Play_Store_Analysis/)**: EDA, cleansing, and multi-dimensional distribution insights.
-   - **[Multi-Doc RAG Research Assistant](./06_Projects/03_ML_GenAI_Project/)**: Full-stack LangChain + Streamlit + ChromaDB semantic search chatbot.
 
 ---
 
@@ -85,8 +84,7 @@ Below is the directory mapping of the workspace:
 │   └── Model_Evaluation/              # GridSearchCV, Confusion Matrices, ROC
 ├── 06_Projects/                       # End-to-end applications
 │   ├── 01_Loan_Approval_Prediction/   # Loan approval classifier
-│   ├── 02_Google_Play_Store_Analysis/ # App store EDA pipeline
-│   └── 03_ML_GenAI_Project/           # LangChain RAG & Streamlit app
+│   └── 02_Google_Play_Store_Analysis/ # App store EDA pipeline
 ├── datasets/                          # Cleaned & raw CSV datasets
 │   └── README.md
 └── images/                            # Project assets & plots
@@ -102,9 +100,6 @@ Below is the directory mapping of the workspace:
 | **Scientific Computing** | NumPy, Pandas |
 | **Data Visualization** | Matplotlib, Seaborn |
 | **Machine Learning** | Scikit-Learn, XGBoost |
-| **Generative AI** | LangChain, Google Gemini API, ChromaDB (Vector DB) |
-| **Web UI** | Streamlit |
-| **Testing** | Pytest, validation scripts |
 
 ---
 
@@ -136,14 +131,6 @@ pip install -r requirements.txt
 Launch Jupyter Notebook or VS Code Jupyter Extension to step through individual files:
 ```bash
 jupyter notebook
-```
-
-### 4. Running the Generative AI App
-To run the research assistant Streamlit UI:
-```bash
-cd 06_Projects/03_ML_GenAI_Project/
-# Setup your Google API Key in a .env file (copy from .env.example)
-streamlit run app.py
 ```
 
 ---

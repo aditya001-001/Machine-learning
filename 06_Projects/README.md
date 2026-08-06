@@ -1,6 +1,6 @@
 # 📂 Portfolio Projects
 
-This directory contains end-to-end Machine Learning and Generative AI projects demonstrating practical application of data science pipelines, model evaluations, and web-based implementations.
+This directory contains end-to-end Machine Learning projects demonstrating practical application of data science pipelines and model evaluations.
 
 ---
 
@@ -15,11 +15,6 @@ This directory contains end-to-end Machine Learning and Generative AI projects d
 - **Problem**: Perform exploratory data analysis to clean, parse, and analyze app store statistics.
 - **Core Stack**: Python, Pandas, Matplotlib, Seaborn.
 - **Key Files**: [Google_Play_Store_Analysis.ipynb](./02_Google_Play_Store_Analysis/Google_Play_Store_Analysis.ipynb)
-
-### 3. 🤖 [Multi-Document RAG Research Assistant](./03_ML_GenAI_Project/)
-- **Problem**: Build a full-stack generative AI assistant that processes user uploaded files, stores document embeddings locally, and queries them with direct reference citations.
-- **Core Stack**: Streamlit, LangChain, Google Gemini API, ChromaDB.
-- **Key Files**: [app.py](./03_ML_GenAI_Project/app.py), [test_validation.py](./03_ML_GenAI_Project/test_validation.py)
 
 ---
 
