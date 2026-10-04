@@ -142,3 +142,4 @@ Thumbs.db
 # Project-specific / Large files
 similarity.pkl
 movie_dict.pkl
+datasets/creditcard.csv
